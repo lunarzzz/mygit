@@ -4,4 +4,6 @@ this is jjjw.2
 <<<<<<< HEAD
 啧啧啧啧啧啧做做做做做做做做
 =======
->>>>>>> master
+>>>>>>> maste
+zjw11111111 push mygit2 zjw2:zjw2
+
